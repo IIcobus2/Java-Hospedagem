@@ -14,4 +14,4 @@
 
 ## ✔️💾 Banco de dados
 
--   Arquivo .sql disponibilizado e feito com PostgreSQL.
+-   Arquivo .sql disponibilizado.
