@@ -1,4 +1,4 @@
-# Trabalho2-Java-Hospedagem
+Java-Hospedagem
 
 ## ✔️💻 Participante
 
